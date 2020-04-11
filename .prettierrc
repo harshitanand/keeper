@@ -1,0 +1,6 @@
+{
+  "printWidth": 120,
+  "singleQuote": true,
+  "semicolons": true,
+  "trailingComma": "es5"
+}
